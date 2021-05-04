@@ -53,7 +53,7 @@ Math.random();
 
 Have a go at playing with some objects!
 
-* Investigate some of the properties on basic objects, such as a `number` or a `boolean`. Chrome Dev Tools are really helpful for discovering the possibilities!
+* Investigate some of the properties on basic objects, such as a `Number` or a `Boolean`. Chrome Dev Tools are really helpful for discovering the possibilities!
 * Play with the Math object a bit. What kind of mathematical operations can you do?
 * There are other built-in Objects available to you in JavaScript. Have a look and see what you find! [`Date`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) is a particularly useful one!
 

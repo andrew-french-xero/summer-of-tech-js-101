@@ -9,9 +9,9 @@ Okay, so we know about variables, functions, objects, and arrays, but how do we 
 The main way to control the flow of a JavaScript program is with `if`/`else` statements. They look something like this:
 
 ```javascript
-if (something) {
+if (myArray.length > 2) {
     doThisThing();
-} else if (somethingElse) {
+} else if (myArray.length == 1) {
     doThisOtherThing();
 } else {
     doThisThirdThing();

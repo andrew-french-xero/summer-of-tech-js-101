@@ -4,7 +4,7 @@ Sometimes you want to be able to use a *group* of objects. Arrays are perfect fo
 
 ## What are they?
 
-An [**Array**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) is a special type of object, where each property name is a number!
+An [**Array**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) is a special type of object, where it contains a sequence of other objects (think about a shopping list)!
 
 They look something like this:
 
@@ -19,6 +19,12 @@ console.log(myArray[0]);
 ```
 
 The first value in the array lives at position `0`. We say that JavaScript arrays are "**zero-indexed**".
+
+Array's also have built-in properties as everything is an object in Jaavscript such as `length`. You can access it like this:
+
+```javascript
+console.log(myArray.length);
+```
 
 An array can contain anything you like, even other arrays!
 
